@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "esm": "^3.2.25",
+    "iconv-lite": "^0.6.3",
+    "jsdom": "^22.1.0"
+  },
+  "name": "Wheater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mansook <orgin20@naver.com>",
+  "license": "MIT"
+}
