@@ -7,8 +7,6 @@ const {
 const { token } = require("./config.json");
 const { getShortTermData, getShortTermRegId } = require("./api/api");
 const { date, weatherImo, calDay } = require("./function/function.js");
-const jsdom = require("jsdom");
-const { JSDOM } = jsdom;
 const celsius = "\u00B0C";
 const client = new Client({
   intents: [
